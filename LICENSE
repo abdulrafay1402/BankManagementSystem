@@ -1,0 +1,48 @@
+MIT License - Educational Project
+
+Copyright (c) 2026 Abdul Rafay, Bisma Shahid, Afshal Liaquat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. EDUCATIONAL PURPOSE NOTICE:
+   This project was developed for educational purposes as part of an academic
+   curriculum. It is intended to demonstrate assembly language programming
+   concepts and banking system implementation.
+
+2. ATTRIBUTION REQUIREMENT:
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software. Any use, distribution, or
+   derivative work must give appropriate credit to the original developers:
+   
+   - Abdul Rafay (https://github.com/abdulrafay1402)
+   - Bisma Shahid (https://github.com/Bisma-404)
+   - Afshal Liaquat (https://github.com/afshalliaquat)
+   
+   Credit should be given in a manner that is reasonable and visible to end users,
+   such as in documentation, README files, or about sections of derived works.
+
+3. DISCLAIMER:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+4. NOTICE FOR PRODUCTION USE:
+   This software is designed for educational purposes only. It is NOT intended
+   for production use or handling real financial transactions. Users who adapt
+   this code for production environments do so at their own risk and must
+   implement appropriate security measures, compliance standards, and professional
+   banking protocols.
+
+---
+
+For questions or permission requests beyond the scope of this license,
+please contact the developers through their GitHub profiles.
