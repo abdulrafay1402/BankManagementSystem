@@ -213,7 +213,7 @@ Complete! Press any key to continue...
 
 This project was developed by:
 
-- **[Abdul Rafay](https://github.com/abdulrafay1402)** - Lead Developer
+- **[Abdul Rafay](https://github.com/abdulrafay1402)** - Developer
 - **[Bisma Shahid](https://github.com/Bisma-404)** - Developer
 - **[Afshal Liaquat](https://github.com/afshalliaquat)** - Developer
 
